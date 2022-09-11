@@ -1,0 +1,260 @@
+{"data": [
+  { "id": 1,
+    "invoice":123456,
+    "client":"Rahimli Rufat",
+    "itemAmount":3,
+    "sum":9200,
+    "status":"təstiqlənib",
+    "invoiceItems": [
+      {
+        "name": "Apple MacBook air",
+        "price": 2200,
+        "amount": 1,
+        "sum": 2200,
+        "id": 1
+      },
+      {
+        "name": "Apple iPad pro",
+        "price": 3500,
+        "amount": 2,
+        "sum": 7000,
+        "id": 2
+      }
+    ]
+ },
+ {
+  "id": 2,
+   "invoice":123456,
+   "client":"Azər Azərov",
+   "itemAmount":11,
+   "sum":25200,
+   "status":"gözləyir",
+   "invoiceItems": [
+    {
+      "name": "Apple Watch series 8",
+      "price": 800,
+      "amount": 4,
+      "sum": 3200,
+      "id": 1
+  },{
+    "name": "Apple MacBook pro",
+    "price": 3000,
+    "amount": 5,
+    "sum": 15000,
+    "id":2
+    },
+    {
+      "name": "Apple iPad pro",
+      "price": 3500,
+      "amount": 2,
+      "sum": 7000,
+      "id": 3
+    }
+  ]
+},{
+  "id": 3,
+  "invoice":123456,
+  "client":"Heydərov Kamil",
+  "itemAmount":3,
+  "sum":4500,
+  "status":"təstiqlənib",
+  "invoiceItems": [
+    {
+      "name": "Apple Iphone 14",
+      "price": 1500,
+      "amount": 3,
+      "sum": 4500,
+      "id": 1
+    }
+  ]
+},
+{
+  "id": 4,
+ "invoice":123456,
+ "client":"Aliyeva Elnara",
+ "itemAmount":1,
+ "sum":2500,
+ "status":"xitam olunub",
+ "invoiceItems": [
+  {
+    "name": "Xiaomi Mi 12 Ultra",
+    "price": 2500,
+    "amount": 1,
+    "sum": 2500,
+    "id": 1
+  }
+]
+}
+],
+"users": [
+  {
+    "label": "Azər Azərov",
+    "id": 1
+
+  },
+  {
+    "label": "Qocayev Eldar",
+    "id": 2
+
+  },
+  {
+    "label": "Adıgözəlova Lalə",
+    "id": 3
+
+  },
+  {
+    "label": "Heydərov Kamil",
+    "id": 4
+
+  },
+  {
+    "label": "Azərov Kamil",
+    "id": 5
+
+  },
+  {
+    "label": "Aliyeva Laman",
+    "id": 6
+
+  },
+  {
+    "label": "Axundov Emin",
+    "id": 7
+
+  },  {
+    "label": "Pashayev Pasha",
+    "id": 8
+
+  },
+  {
+    "label": "Huseynov Kamil",
+    "id": 9
+
+  },
+  {
+    "label": "Rahimli Rufat",
+    "id": 10
+
+  }
+],
+"products": [
+  {
+    "label": "Apple iPhone 14",
+    "price": 1500,
+    "amount": 25,
+    "id": 1
+  },{
+    "label": "Apple iPad mini",
+    "price": 2500,
+    "amount": 5,
+    "id": 2
+  },{
+    "label": "Apple iPad pro",
+    "price": 3500,
+    "amount": 17,
+    "id": 3
+  },{
+    "label": " Apple iPad 5",
+    "price": 1800,
+    "amount": 13,
+    "id": 4
+  },{
+    "label": "Apple iMac",
+    "price": 4500,
+    "amount": 7,
+    "id": 5
+  },{
+    "label": "Apple Watch series 8",
+    "price": 800,
+    "amount": 30,
+    "id": 6
+  },{
+    "label": "Apple MacBook pro",
+    "price": 3000,
+    "amount": 55,
+    "id": 7
+  },{
+    "label": "Apple MacBook air",
+    "price": 2200,
+    "amount": 9,
+    "id": 8
+  },{
+    "label": "Apple Mac Studio",
+    "price": 6500,
+    "amount": 3,
+    "id": 9
+  },{
+    "label": "Apple iPhone 14 Plus",
+    "price": 900,
+    "amount": 15,
+    "id": 10
+  },{
+    "label": "Apple iPhone 14 Pro ",
+    "price": 1200,
+    "amount": 28,
+    "id": 11
+  },{
+    "label": "Apple iPhone 14 Pro Max",
+    "price": 1800,
+    "amount": 12,
+    "id": 12
+  },{
+    "label": "Apple Mac mini",
+    "price": 1500,
+    "amount": 5,
+    "id": 13
+  },{
+    "label": "Apple AirPods 3",
+    "price": 300,
+    "amount": 127,
+    "id": 14
+  },{
+    "label": "Apple AirPods Pro",
+    "price": 550,
+    "amount": 86,
+    "id": 15
+  },{
+    "label": "Samsung Galaxy S22",
+    "price": 1800,
+    "amount": 45,
+    "id": 16
+  },{
+    "label": "Samsung Galaxy S22 Ultra",
+    "price": 2300,
+    "amount": 65,
+    "id": 17
+  },{
+    "label": "Samsung Galaxy S22 Plus",
+    "price": 1300,
+    "amount": 5,
+    "id": 18
+  },{
+    "label": "Samsung Galaxy Fold 4",
+    "price": 4000,
+    "amount": 4,
+    "id": 19
+  },{
+    "label": "Samsung Galaxy Z Fold 3",
+    "price": 2300,
+    "amount": 15,
+    "id": 20
+  },{
+    "label": "Samsung Galaxy A72",
+    "price": 230,
+    "amount": 54,
+    "id": 21
+  },{
+    "label": "Samsung Galaxy S21",
+    "price": 1550,
+    "amount": 17,
+    "id": 22
+  },{
+    "label": "Xiaomi Mi 12 Ultra",
+    "price": 2500,
+    "amount": 14,
+    "id": 23
+  }
+  
+]
+
+}
